@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Support
+    url: https://discord.gg/rbUG6SpRAM
+    about: Please ask and answer questions here
+  - name: List a coin
+    url: https://github.com/AnimeSwap/coin-list#how-to-add-to-this-coin-list
+    about: Any requests to add a coin to AnimeSwap should go here
